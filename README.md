@@ -1,9 +1,5 @@
-# Patrón Circuit Breaker con Resilience4J
+# Proyecto Final
 
-Proyecto de la materia Seminario de Ciencias de la Computación B. Implementa el
-patrón Circuit Breaker usando Resilience4J con las anotaciones `@CircuitBreaker` y
-`@TimeLimiter`, para mostrar cómo se comporta un microservicio ante una falla por
-excepción y ante una falla por latencia.
 
 ## Equipo
 
